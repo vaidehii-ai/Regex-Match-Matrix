@@ -1,0 +1,6 @@
+{
+  "name": "Regex Match Matrix",
+  "description": "Theory of Computation regular expression matching engine with step-by-step verification matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
